@@ -30,7 +30,7 @@ public class App {
             System.out.println("Page Title is: "+title);
             String url=page.url();
             System.out.println("Page Url is: "+url);
-            page.click("");
+          //  page.click("email");
 
 
       }
